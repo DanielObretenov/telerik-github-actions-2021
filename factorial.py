@@ -3,7 +3,7 @@ final_list = []
 
 
 def factorial(n):
-    time.sleep(.1)
+    time.sleep(.1) 
     factorial = 1
     for i in range(1, n+1):
         factorial = factorial * i
